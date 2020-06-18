@@ -1,0 +1,254 @@
+		ul { 
+			list-style-type: square;
+		}
+		
+		h3 { 
+			color: white;
+		}
+
+		p {
+			color: white;
+		}
+
+		li {
+			color: white;
+		}
+		a:link {
+			color: black;
+		}
+
+		a#Ação:visited {
+			color: black;
+		}
+		a#Botões:visited {
+			color: white;
+		}
+		
+		a:hover {
+			color: white;
+		}
+
+		a:active {
+			color: red;
+		}
+
+		td {
+			color: white; 
+
+		}
+		a#Botões {
+			position: relative;
+			top: -20%;
+			left: 10%;
+			padding: 5px;
+			font-size: 150%;
+			font-family: serif;
+			text-decoration: none;
+			background-color: #821d84;
+			border-radius: 10px;
+			border-color: white;
+			margin: -4px;
+		}
+		a#Ação{
+			
+		}
+		div#interface {
+			background-color: #FFFFF3;
+			width: 1200px;
+			height: 1200px;
+			margin: 20px auto 10px auto;
+			padding: 60px;
+			box-shadow: 0px 0px 10px black;
+			border-radius: 25px;
+			transition: 1s;
+		}
+		div#logo {
+			background-color: #FFFFF3;
+			width: 1200px;
+			height: 160px;
+			text-align: left;
+			margin: 20px auto 10px auto;
+			padding: 60px;
+			border-radius: 25px;
+			box-shadow: 0px 0px 10px black;
+		}
+		div#AserLTBox {
+			text-align: center;
+			width: 360px;
+			height: 10px;
+			background-color: #a557c2;
+			margin: 10px auto 10px auto;
+			padding: 20px;
+			border-radius: 25px;
+			box-shadow: 0px 0px 5px white;
+			border-style: outset;
+		}
+		div#LogoInside {
+			width: 60px;
+			height: 60px;
+			background-color: #FFFFFF;
+			position: relative;
+			left: 82%;
+			top: -50%;
+		}
+		div#Video {
+			width: 560px;
+			height: 348px;
+			background-color: #2e2e2e;
+			border-radius: 10px;
+			border-style: groove;
+			border-color: white;
+			position: fixed;
+			left: 36%;
+			top: 4%
+		}
+		div#CartazJgAção{
+			width: 960px;
+			height: 330px;
+			background-color: #1f1f1f;
+			border-radius: 0%;
+			position: relative;
+			box-shadow: 8px 8px 0px black;
+		}
+		img#logo1 {
+			width: 180px;
+			position: relative;
+			left: -2%;
+			top: -10%;
+		}
+		img#logo1:hover {
+			width: 252px;
+			transition: 2s;
+		}
+		img#JgAção1{
+			position: absolute;
+			top: 10%;
+			left: 5%;
+			border-radius: 2%;
+			border-style: outset;
+			border-color: black;
+		}
+		body {
+			background-color: #821d84;
+		}
+		img#Jogos {
+			border-radius: 25px;
+			box-shadow: 5px 5px 10px #821d84;
+			padding: 15px;
+			margin: 15px;
+			background-color: #821d84;
+			width: 320px;
+			height: 180px;
+			transition: 1s;
+			align-content: center;
+		}
+		img#TemaAserL {
+			border-radius: 25px;
+			box-shadow: 5px 5px 10px #821d84;
+			padding: 15px;
+			margin: 15px;
+			background-color: #821d84;
+			width: 200px;
+			height: 200px;
+			transition: 1s;
+			transition-delay: 2s;
+			align-content: center;
+			position: absolute;
+			top: 10%;
+			left: 5%;
+		}
+		h1#AserL {
+			text-align: center;
+			text-shadow: 0px 1px 3px;
+			position: relative;
+			top: -360%;
+			color: white;
+		}
+		h1#Promo {
+			text-align: center;
+			text-shadow: 0px 1px 3px;
+		}
+		iframe#Iframe1 {
+			width: 1000px;
+			height: 800px;
+			border-radius: 50px;
+			box-shadow: 1px 1px 10px white;
+			padding: 15px;
+			margin: 5px;
+			background-color: #821d84;
+		}
+		body#ASerLB {
+			background-color: #121212;
+		}
+		body#AserLPrincipal {
+			background-color: #121212;
+		}
+		img#LogoAserL {
+			position: relative;
+			top: 10%;
+			left: 25%;
+		}
+		h3 {
+			color: black;
+		}
+		h1#AserLPrincipal {
+			text-align: center;
+			text-shadow: 0px 1px 3px;
+			color: white;
+		}
+		h1#AserLPrincipaltitulo {
+			color: white;
+			text-align: center;
+		}
+		hr#hr1 {
+			position: relative;
+			top: -25%;
+			height: 1px;
+			color: black;
+			background-color: black;
+			border: none;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		a#aJogos {
+			position: relative;
+			left: 2%
+		}
+		img#LogoAserL  {
+			position: absolute;
+			top: 16%
+		}
+		p#Info {
+			color: white;
+		}
+		p#JgAção1{
+			position: relative;
+			top: 10%;
+			left: 28%;
+			font: Verdana;
+			font-size: 20px;
+			font-family: serif;
+		}
+		p#Info2 {
+			color: white;
+			position: absolute;
+			top: 58%;
+			left: 2%;
+			text-align: justify;
+		}
+		h3#TemasH3 {
+			color: white;
+			position: absolute;
+			top: 52%;
+			left: 8%;
+		}
+		hr#hrInfo {
+			position: absolute;
+			top: 52%;
+			width: 98%;
+		}
+		hr#hrInfo2 {
+			position: absolute;
+			top: 57%;
+			width: 98%;
+		}
